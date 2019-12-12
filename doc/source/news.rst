@@ -5,6 +5,26 @@
 News
 ====
 
+.. _release-9-11:
+
+Release 9.11 - 2019-12-27
+-------------------------
+
+Improvements
+^^^^^^^^^^^^
+
+* [:doc:`/install/ubuntu`] Dropped Ubuntu 14.04 LTS (Trusty Tahr) support.
+
+* [:doc:`/install/ubuntu`] Dropped Ubuntu 18.10 (Cosmic Cuttlefish) support.
+
+Fixes
+^^^^^
+
+* [:doc:`/install/ubuntu`] Added support for Ubuntu 16.04 (Xenial Xerus) that was missing.
+
+Thanks
+^^^^^^
+
 .. _release-9-10:
 
 Release 9.10 - 2019-11-29
